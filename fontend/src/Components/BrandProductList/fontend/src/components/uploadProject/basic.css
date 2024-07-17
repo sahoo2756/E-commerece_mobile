@@ -1,0 +1,21 @@
+.imageUploaderCustomCss{
+    text-align: center;
+    border: 1px dashed black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.uploadProjectSubmitBtnCustomCss {
+    width: fit-content;
+    color: white;
+    margin: auto;
+    /* property name | duration | easing function | delay */
+    transition: all .1s ease-in-out ;
+
+}
+
+
+ 

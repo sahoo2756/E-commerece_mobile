@@ -1,0 +1,21 @@
+[
+    {
+        name : "" ,
+        title : "" , 
+        brand : "" , 
+        price : number ,
+        color : ""
+        RAM : "", 
+        ROM : ""
+        Camera : ""
+        lunch_date : Date,
+        Battery : "" ,
+        Screen_Size :"" ,
+        Network Type : "" ,
+        Processor Type : "",
+        Screen_Type : "",
+        rating : "" , 
+        discount : "",
+        description : "" , 
+    }
+]

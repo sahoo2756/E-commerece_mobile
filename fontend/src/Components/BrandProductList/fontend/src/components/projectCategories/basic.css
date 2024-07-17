@@ -1,0 +1,24 @@
+.categoryImgCustomCss{
+    width: 25%;
+    border-radius: 5px;
+    cursor: pointer;
+    /* transition: property duration timing-function delay; */
+    transition: all .1s ease-in-out .2s;
+    border: 1px solid gray;
+    scale: 1.01;
+    /* border: 2px solid blue;
+    padding: 5px; */
+}
+.categoryImgCustomCss:hover{
+    scale: 1.03;
+    box-shadow: 10px;
+}
+
+.projectCategoriesCustomCssClass{
+    display: block;
+    text-align: center;
+        
+}
+.projectCategoriesCustomCssClass:hover{
+    cursor: pointer;
+}

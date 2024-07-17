@@ -1,0 +1,15 @@
+.formLoginPageCustomCss{
+    display: grid;
+    position: relative;
+    width: 45%;
+    margin: auto;
+}
+
+.LoginPageLoginBtnCustomCss{
+    width: 100%;
+    background-color: rgb(12, 12, 192);
+    border-radius: 10px;
+}
+.LoginPageLoginBtnCustomCss:hover{
+    background-color: blue;
+}

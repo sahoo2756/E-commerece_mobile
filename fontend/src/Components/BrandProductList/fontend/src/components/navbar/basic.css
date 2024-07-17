@@ -1,0 +1,7 @@
+.NavLink_NavbarCustomCss{
+    cursor: pointer;
+    
+}
+.NavLink_NavbarCustomCss:hover{
+    color: white;
+}

@@ -1,0 +1,15 @@
+.SignupPageCustomCss{
+    width: 100%;
+    background-color: rgb(12, 12, 192);
+    border-radius: 10px;
+}
+.SignupPageCustomCss:hover{
+    background-color: blue;
+}
+
+
+.middleNameSIgnupPageCustomCss{
+    white-space: nowrap;
+    cursor:  pointer;
+    border-left: 1px solid gray;
+}

@@ -1,0 +1,19 @@
+.high-quality {
+  image-rendering: smooth;
+}
+.pixelated {
+  image-rendering: pixelated;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-indicator {
+  position: absolute;
+  bottom: 0;
+  /* left: 50%; */
+  color: gray;
+}
+
+

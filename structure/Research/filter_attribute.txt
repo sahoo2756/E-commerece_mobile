@@ -1,0 +1,12 @@
+Brand
+Price Range
+color
+ RAM
+ ROM
+ Camera Quality
+ Release Year
+ Battery Capacity
+ Screen Size
+ Network Type
+ Processor Type
+ Screen Type
